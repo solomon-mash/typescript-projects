@@ -5,4 +5,7 @@
 ![resetpassword](https://github.com/user-attachments/assets/bae5d032-4afb-487d-af1e-2f61b527790f)
 ### 3. Reset Email Confirmation Page
 ![passwordConfirm](https://github.com/user-attachments/assets/12461a36-01d5-43b0-912f-8b9fa44f1828)
+### 4. Register Account Page
+![register](https://github.com/user-attachments/assets/bbad137e-770f-4979-b15b-136703fbb1d1)
+
 
